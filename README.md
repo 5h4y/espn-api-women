@@ -2,15 +2,25 @@
 
 # Women's Soccer/Football
 
-## National Teams
+## NWSL 
 
-## Leagues
+### Teams https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/teams
+- Chicago Stars FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15360?lang=en&region=us
+- Portland Thorns FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15362?lang=en&region=us
+- Seattle Reign FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15363?lang=en&region=us
+- Gotham FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15364?lang=en&region=us
+- Washington Spirit: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15365?lang=en&region=us
+- North Carolina Courage: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15366?lang=en&region=us
+- Houston Dash: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/17346?lang=en&region=us
+- Orlando Pride: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/18206?lang=en&region=us
+- Utah Royals: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/19141?lang=en&region=us
+- Racing Louisville FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/20905?lang=en&region=us
+- Kansas City Current: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/20907?lang=en&region=us
+- Angel City FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21422?lang=en&region=us
+- San Diego Wave FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21423?lang=en&region=us
+- Bay FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/22187?lang=en&region=us
 
-### NWSL
-
-#### Teams
-
-#### Players https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes
+### Athletes https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes
 - Sophia Wilson (Smith): https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131?lang=en&region=us
 - Sophie Schmidt: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131?lang=en&region=us
 - Daiane Limeira: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/109120?lang=en&region=us
@@ -36,3 +46,10 @@
 - Casey Murphy: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209771?lang=en&region=us
 - Rose Lavelle: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209984?lang=en&region=us
 - Ashley Hatch: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/210318?lang=en&region=us
+
+
+## UEFA Champion's League
+
+### Teams https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/teams
+
+### Athletes https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/athletes?lang=en&region=us
