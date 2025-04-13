@@ -51,5 +51,21 @@
 ## UEFA Champion's League
 
 ### Teams https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/teams
+- Lyon: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19256?lang=en&region=us
+- Manchester City: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19257?lang=en&region=us
+- Chelsea: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19970?lang=en&region=us
+- Arsenal: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19973?lang=en&region=us
+- Barcelona: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20091?lang=en&region=us
+- Juventus: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20092?lang=en&region=us
+- Bayern Munich: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20103?lang=en&region=us
+- VfL Wolfsburg: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20107?lang=en&region=us
+- FC Twente: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20114?lang=en&region=us
+- St. Pölten: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20115?lang=en&region=us
+- Valerenga: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20836?lang=en&region=us
+- Real Madrid: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/21128?lang=en&region=us
+- Roma: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/21685?lang=en&region=us
+- Galatasaray: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22406?lang=en&region=us
+- Celtic: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22407?lang=en&region=us
+- Hammarby IF: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22408?lang=en&region=us
 
 ### Athletes https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/athletes?lang=en&region=us
