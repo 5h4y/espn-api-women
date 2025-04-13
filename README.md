@@ -2,6 +2,12 @@
 
 # Women's Soccer/Football
 
+## Women's International Friendly 
+
+https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w?lang=en&region=us
+
+### Teams https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w/teams
+
 ## NWSL 
 
 ### Teams https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/teams
