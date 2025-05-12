@@ -1,25 +1,33 @@
 
 
-# Women's Soccer ESPN API Reference
+# Women's Sports ESPN API Reference
 
-This document outlines ESPN API endpoints for accessing women's soccer data, including teams and athletes across various leagues.
+This document outlines ESPN API endpoints for accessing women's sports data, including teams and athletes across various leagues.
+
+**Base URL**: `https://sports.core.api.espn.com/v2/sports`
+
+_Optional Query Parameters:_  
+You can append `?lang=` and `region=` to endpoints for localization if needed, but they’re not required. Example:
+
+`https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/teams?lang=en&region=us`
+
+## Women's Soccer
 
 **Base URL**: `https://sports.core.api.espn.com/v2/sports/soccer/leagues`
 
-Note: You can optionally append `lang` and `region` to query parameters to localize content.
-
-## Women's International Friendly 
+### Women's International Friendly 
 
 - **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w)**: `/fifa.friendly.w`
-- **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w/teams)**: `/fifa.friendly.w/teams` 
+- **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w/teams)**: `/fifa.friendly.w/teams`
+- **[Athletes](https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w/athletes)**: `/fifa.friendly.w/athletes`
 
-## NWSL (National Women's Soccer League)
+### NWSL (National Women's Soccer League)
 
 - **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl)**: `/usa.nwsl`  
 - **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/teams)**: `/usa.nwsl/teams`  
 - **[Athletes](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes)**: `/usa.nwsl/athletes` 
 
-### NWSL Teams  
+#### NWSL Teams  
 - **[Chicago Stars FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15360)**: `/teams/15360`  
 - **[Portland Thorns FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15362)**: `/teams/15362`  
 - **[Seattle Reign FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15363)**: `/teams/15363`
@@ -35,7 +43,7 @@ Note: You can optionally append `lang` and `region` to query parameters to local
 - **[San Diego Wave FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21423)**: `/teams/21423`  
 - **[Bay FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/22187)**: `/teams/22187`  
 
-### NWSL Athletes
+#### NWSL Athletes
 - **[Sophia Wilson (Smith)](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131)** — `/athletes/95131`
 - **[Sophie Schmidt](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131)** — `/athletes/95131`
 - **[Daiane Limeira](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/109120)** — `/athletes/109120`
@@ -63,13 +71,13 @@ Note: You can optionally append `lang` and `region` to query parameters to local
 - **[Ashley Hatch](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/210318)** — `/athletes/210318`
 
 
-## UEFA Women's Champion's League
+### UEFA Women's Champion's League
 
 - **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions)**: `/uefa.wchampions` 
 - **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/teams)**: `/uefa.wchampions/teams`
 - **[Athletes](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/athletes)**: `uefa.wchampions/seasons/2024/athletes`
 
-### UWCL Teams  
+#### UWCL Teams  
 - **[Lyon](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19256)**: `/teams/19256`
 - **[Manchester City](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19257)**: `/teams/19257`  
 - **[Chelsea](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19970)**: `/teams/19970`   
@@ -87,4 +95,9 @@ Note: You can optionally append `lang` and `region` to query parameters to local
 - **[Celtic](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22407)**: `/teams/22407`  
 - **[Hammarby IF](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22408)**: `/teams/22408`
 
-### Athletes https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/athletes
+
+
+
+---
+
+📌 _This document is a work in progress. Contributions and suggestions are welcome!_
