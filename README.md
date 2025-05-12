@@ -63,24 +63,28 @@ Note: You can optionally append `lang` and `region` to query parameters to local
 - Ashley Hatch: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/210318
 
 
-## UEFA Champion's League
+## UEFA Women's Champion's League
 
-### Teams https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/teams
-- Lyon: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19256
-- Manchester City: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19257
-- Chelsea: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19970
-- Arsenal: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19973
-- Barcelona: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20091
-- Juventus: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20092
-- Bayern Munich: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20103
-- VfL Wolfsburg: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20107
-- FC Twente: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20114
-- St. Pölten: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20115
-- Valerenga: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20836
-- Real Madrid: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/21128
-- Roma: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/21685
-- Galatasaray: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22406
-- Celtic: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22407
-- Hammarby IF: https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22408
+- **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions)**: `/uefa.wchampions` 
+- **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/teams)**: `/uefa.wchampions/teams`
+- **[Athletes](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/athletes)**: `uefa.wchampions/seasons/2024/athletes`
+
+### UWCL Teams  
+- **[Lyon](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19256)**: `/teams/19256`
+- **[Manchester City](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19257)**: `/teams/19257`  
+- **[Chelsea](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19970)**: `/teams/19970`   
+- **[Arsenal](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/19973)**: `/teams/19973`  
+- **[Barcelona](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20091)**: `/teams/20091`  
+- **[Juventus](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20092)**: `/teams/20092`  
+- **[Bayern Munich](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20103)**: `/teams/20103`  
+- **[VfL Wolfsburg](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20107)**: `/teams/20107`  
+- **[FC Twente](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20114)**: `/teams/20114`  
+- **[St. Pölten](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20115)**: `/teams/20115`  
+- **[Valerenga](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/20836)**: `/teams/20836`  
+- **[Real Madrid](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/21128)**: `/teams/21128`  
+- **[Roma](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/21685)**: `/teams/21685`  
+- **[Galatasaray](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22406)**: `/teams/22406`  
+- **[Celtic](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22407)**: `/teams/22407`  
+- **[Hammarby IF](https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/teams/22408)**: `/teams/22408`
 
 ### Athletes https://sports.core.api.espn.com/v2/sports/soccer/leagues/uefa.wchampions/seasons/2024/athletes
