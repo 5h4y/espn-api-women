@@ -13,23 +13,27 @@ Note: You can optionally append `lang` and `region` to query parameters to local
 - **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w)**: `/fifa.friendly.w`
 - **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/fifa.friendly.w/teams)**: `/fifa.friendly.w/teams` 
 
-## NWSL 
+## NWSL (National Women's Soccer League)
 
-### Teams https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/teams
-- Chicago Stars FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15360
-- Portland Thorns FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15362
-- Seattle Reign FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15363
-- Gotham FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15364
-- Washington Spirit: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15365
-- North Carolina Courage: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15366
-- Houston Dash: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/17346
-- Orlando Pride: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/18206
-- Utah Royals: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/19141
-- Racing Louisville FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/20905
-- Kansas City Current: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/20907
-- Angel City FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21422
-- San Diego Wave FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21423
-- Bay FC: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/22187
+- **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl)**: `/usa.nwsl`  
+- **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/teams)**: `/usa.nwsl/teams`  
+- **[Athletes](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes)**: `/usa.nwsl/athletes` 
+
+### NWSL Teams  
+- **[Chicago Stars FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15360)**: `/teams/15360`  
+- **[Portland Thorns FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15362)**: `/teams/15362`  
+- **[Seattle Reign FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15363)**: `/teams/15363`
+- **[Gotham FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15364)**: `/teams/15364`  
+- **[Washington Spirit](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15365)**: `/teams/15365`  
+- **[North Carolina Courage](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/15366)**: `/teams/15366`  
+- **[Houston Dash](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/17346)**: `/teams/17346`  
+- **[Orlando Pride](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/18206)**: `/teams/18206`  
+- **[Utah Royals](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/19141)**: `/teams/19141`  
+- **[Racing Louisville FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/20905)**: `/teams/20905`  
+- **[Kansas City Current](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/20907)**: `/teams/20907`  
+- **[Angel City FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21422)**: `/teams/21422`  
+- **[San Diego Wave FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21423)**: `/teams/21423`  
+- **[Bay FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/22187)**: `/teams/22187`  
 
 ### Athletes https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes
 - Sophia Wilson (Smith): https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131
