@@ -35,32 +35,32 @@ Note: You can optionally append `lang` and `region` to query parameters to local
 - **[San Diego Wave FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/21423)**: `/teams/21423`  
 - **[Bay FC](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/seasons/2025/teams/22187)**: `/teams/22187`  
 
-### Athletes https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes
-- Sophia Wilson (Smith): https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131
-- Sophie Schmidt: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131
-- Daiane Limeira: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/109120
-- María Sánchez: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/148404
-- Alex Loera: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/156434
-- Emily van Egmond: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158693
-- Bia Zaneratto: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158699
-- Marta: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158712
-- Rafaelle: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158720
-- Ali Riley: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158791
-- Rocky Rodríguez: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/168043
-- Sydney Leroux: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/174410
-- Christen Press: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/175978
-- Christen Westphal: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/208915
-- Shea Groom: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209045
-- Simone Charley: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209067
-- Lauren Flynn: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209210
-- Kailen Sheridan: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209278
-- Kaileigh Kurtz: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209367
-- Savannah McCaskill: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209383
-- Kelli Hubly: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209537
-- Arin Wright: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209538
-- Casey Murphy: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209771
-- Rose Lavelle: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209984
-- Ashley Hatch: https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/210318
+### NWSL Athletes
+- **[Sophia Wilson (Smith)](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131)** — `/athletes/95131`
+- **[Sophie Schmidt](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/95131)** — `/athletes/95131`
+- **[Daiane Limeira](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/109120)** — `/athletes/109120`
+- **[María Sánchez](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/148404)** — `/athletes/148404`
+- **[Alex Loera](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/156434)** — `/athletes/156434`
+- **[Emily van Egmond](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158693)** — `/athletes/158693`
+- **[Bia Zaneratto](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158699)** — `/athletes/158699`
+- **[Marta](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158712)** — `/athletes/158712`
+- **[Rafaelle](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158720)** — `/athletes/158720`
+- **[Ali Riley](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/158791)** — `/athletes/158791`
+- **[Rocky Rodríguez](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/168043)** — `/athletes/168043`
+- **[Sydney Leroux](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/174410)** — `/athletes/174410`
+- **[Christen Press](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/175978)** — `/athletes/175978`
+- **[Christen Westphal](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/208915)** — `/athletes/208915`
+- **[Shea Groom](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209045)** — `/athletes/209045`
+- **[Simone Charley](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209067)** — `/athletes/209067`
+- **[Lauren Flynn](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209210)** — `/athletes/209210`
+- **[Kailen Sheridan](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209278)** — `/athletes/209278`
+- **[Kaileigh Kurtz](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209367)** — `/athletes/209367`
+- **[Savannah McCaskill](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209383)** — `/athletes/209383`
+- **[Kelli Hubly](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209537)** — `/athletes/209537`
+- **[Arin Wright](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209538)** — `/athletes/209538`
+- **[Casey Murphy](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209771)** — `/athletes/209771`
+- **[Rose Lavelle](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/209984)** — `/athletes/209984`
+- **[Ashley Hatch](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes/210318)** — `/athletes/210318`
 
 
 ## UEFA Women's Champion's League
