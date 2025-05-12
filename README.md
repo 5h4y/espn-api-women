@@ -1,6 +1,10 @@
 
 
-# Women's Soccer/Football
+# Women's Soccer ESPN API Reference
+
+## General
+
+Note: You can optionally append `lang` and `region` query parameters to localize content.
 
 ## Women's International Friendly 
 
