@@ -23,7 +23,8 @@ You can append `?lang=` and `region=` to endpoints for localization if needed, b
 
 ### NWSL (National Women's Soccer League)
 
-- **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl)**: `/usa.nwsl`  
+- **[League Info](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl)**: `/usa.nwsl`
+- **[Scoreboard](https://site.api.espn.com/apis/site/v2/sports/soccer/usa.nwsl/scoreboard)** `/usa.nwsl/scoreboard`
 - **[Teams](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/teams)**: `/usa.nwsl/teams`  
 - **[Athletes](https://sports.core.api.espn.com/v2/sports/soccer/leagues/usa.nwsl/athletes)**: `/usa.nwsl/athletes` 
 
